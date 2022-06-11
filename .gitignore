@@ -1,0 +1,6 @@
+# Haskell compile files
+*.o
+*.hi
+
+# Runeable files
+/hackerrank/staircase
